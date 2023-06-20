@@ -1,0 +1,3 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+queue	villeA	CLEN*		la rubrique villeA est maintenant une clé
+queue	place_disponible	CLEN*		la rubrique place_disponible est maintenant une clé

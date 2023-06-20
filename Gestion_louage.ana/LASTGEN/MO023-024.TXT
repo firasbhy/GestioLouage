@@ -1,0 +1,2 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+queue	Date	CLEN*		la rubrique Date est maintenant une clé

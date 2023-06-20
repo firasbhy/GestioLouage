@@ -1,0 +1,4 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+queue		TAR	143	nouvelle taille enregistrement : 143
+queue	villeD	RUB+		villeD est une nouvelle rubrique
+queue	villeA	RUB+		villeA est une nouvelle rubrique

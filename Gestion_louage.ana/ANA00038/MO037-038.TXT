@@ -1,0 +1,2 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Contrainte_louage_queue		MCL	0,1->1,1	

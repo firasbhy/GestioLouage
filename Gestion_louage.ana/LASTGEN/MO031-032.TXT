@@ -1,0 +1,2 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Contrainte_client_Réservation_voyage		MCL	0,1->0,n	

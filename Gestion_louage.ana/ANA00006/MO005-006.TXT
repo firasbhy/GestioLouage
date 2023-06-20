@@ -1,0 +1,8 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+louage		NFI		nouveau fichier
+louage	Matricule	RRN		
+louage	Marque_de_louage	RRN		
+louage	villeD	RRN		
+louage	villeA	RRN		
+louage	tarif	RRN		
+louage	Mot_De_Passe	RRN		

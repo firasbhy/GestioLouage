@@ -1,0 +1,8 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+louage		NFI		nouveau fichier
+client	Nom	RRM		
+louage	Matricule	RRN		
+louage	Marque_de_louage	RRN		
+louage	villeD	RRN		
+louage	villeA	RRN		
+louage	tarif	RRN		

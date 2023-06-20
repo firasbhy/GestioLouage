@@ -1,0 +1,4 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Réservation_voyage		NFI		nouveau fichier
+Contrainte_client_Réservation_voyage		NWL	client (CIN) et Réservation_voyage (CIN)	Nouvelle liaison entre les fichiers client (CIN) et Réservation_voyage (CIN)
+Contrainte_Réservation_voyage_louage		NWL	louage (Matricule) et Réservation_voyage (Matricule)	Nouvelle liaison entre les fichiers louage (Matricule) et Réservation_voyage (Matricule)

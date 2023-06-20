@@ -1,0 +1,5 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+client		TAR	147	nouvelle taille enregistrement : 147
+client	Nom	CNW	Chaîne unicode$Mémo texte	la rubrique Nom a pour nouveau type Chaîne unicode
+louage		TAR	145	nouvelle taille enregistrement : 145
+louage	Matricule	CNW	Chaîne unicode$Mémo texte	la rubrique Matricule a pour nouveau type Chaîne unicode

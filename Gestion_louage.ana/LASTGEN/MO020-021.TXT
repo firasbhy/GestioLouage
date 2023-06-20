@@ -1,0 +1,5 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+queue		TAR	144	nouvelle taille enregistrement : 144
+queue	villeD	CLE-*		la rubrique villeD n'est plus une clé
+queue	villeA	CLE-*		la rubrique villeA n'est plus une clé
+queue	place_disponible	RUB+		place_disponible est une nouvelle rubrique

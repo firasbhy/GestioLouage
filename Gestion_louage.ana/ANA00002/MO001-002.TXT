@@ -1,0 +1,8 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+client		NFI		nouveau fichier
+client	Nom	RRN		
+client	Prénom	RRN		
+client	CIN	RRN		
+client	Email	RRN		
+client	télephone	RRN		
+client	Mot_De_Passe	RRN		

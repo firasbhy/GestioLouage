@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+louage		TAR	154	nouvelle taille enregistrement : 154
+louage	nombre_place	RUB+		nombre_place est une nouvelle rubrique

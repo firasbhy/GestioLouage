@@ -1,0 +1,3 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+client		EXT	DBF	nouvelle extension  DBF
+client		FRN		

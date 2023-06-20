@@ -1,0 +1,13 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+client		EXT	fic	nouvelle extension  fic
+client		TAR	147	nouvelle taille enregistrement : 147
+client		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+client		FCNX-	MaConnexion	
+louage		EXT	fic	nouvelle extension  fic
+louage		TAR	153	nouvelle taille enregistrement : 153
+louage		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+louage		FCNX-	MaConnexion	
+Réservation_voyage		EXT	fic	nouvelle extension  fic
+Réservation_voyage		TAR	127	nouvelle taille enregistrement : 127
+Réservation_voyage		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+Réservation_voyage		FCNX-	MaConnexion	
